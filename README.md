@@ -91,7 +91,7 @@ njsscan: v0.1.9 | Ajin Abraham | opensecurity.in
 
 See [nodejsscan](https://github.com/ajinabraham/nodejsscan)
 
-## Python API
+## Python API 
 
 ```python
 >>> from njsscan.njsscan import NJSScan
