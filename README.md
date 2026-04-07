@@ -47,7 +47,7 @@ optional arguments:
                         Location to .njsscan config file
   --missing-controls    enable missing security controls check
   -w, --exit-warning    non zero exit code on warning
-  -v, --version         show njsscan version
+  -v, --version         show njsscan version 
 ```
 
 
