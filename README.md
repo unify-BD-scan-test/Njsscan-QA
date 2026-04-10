@@ -22,7 +22,7 @@ Made with ![Love](https://cloud.githubusercontent.com/assets/4301109/16754758/82
 
 ## Installation
 
-`pip install njsscan`
+`pip install njsscan` 
 
 Requires Python 3.7+ and supports only Mac and Linux
 
